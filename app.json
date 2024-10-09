@@ -25,7 +25,7 @@
       "package": "com.bryanriveros.cincotenedores",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyA5UpQXq798N7Rlnu0ccQTqMBC2pjClflQ"
+          "apiKey": ""
         }
       },
       "permissions": [
